@@ -1,0 +1,82 @@
+body{
+    
+    margin: 0%;
+    border: 0;
+
+}
+.MainNavbar ul li {
+    padding-left: 65px;
+    align-items: left;
+    padding:15px;
+    list-style: none;
+}
+.MainNavbar ul {
+    align-items: left;
+    padding-left: 1035px;
+    display: flex;
+}
+.MainNavbar ul li a{
+    align-items: left;
+}
+.logo{
+    padding-top: 70px;
+    padding-left: 450px;
+    width: 350px;
+    height: 200px;
+    
+}
+.bar{
+    margin:0 auto;
+    width:575px;
+    border-radius:30px;
+    border:1px solid #dcdcdc;
+  }
+  .bar:hover{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+  }
+  .bar:focus-within{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+    outline:none;
+  }
+  .searchbar{
+    height:45px;
+    border:none;
+    width:500px;
+    font-size:16px;
+    outline: none;
+    
+  }
+  .voice{
+    height:20px;
+    position:relative;
+    top:5px;
+    left:10px;
+  }
+  .buttonmean{
+    padding-left: 450px;
+    padding-top: 0px;
+  
+  }
+  .button{
+    width: 150px;
+    height: 30px;
+    font-size: 17px;
+  }
+  .button1{
+    
+    width: 150px;
+    height: 30px;
+    font-size: 17px;
+    
+  }
+.lettering{
+  padding-left: 350px;
+  font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.bengali{
+  font-family: 'Hind Siliguri', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Poppins', sans-serif;
+
+}
